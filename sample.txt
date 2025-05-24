@@ -1,2 +1,3 @@
 Git is a version control software
 git hub is a online platform
+git helps to track the code
